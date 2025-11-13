@@ -139,10 +139,6 @@ This project demonstrates proficiency in:
 - Build system configuration
 - Documentation with Doxygen
 
-## License
-
-EPITECH PROJECT, 2025
-
 ---
 
 *This project was developed as part of the EPITECH curriculum, focusing on advanced C++ programming and software architecture.*
